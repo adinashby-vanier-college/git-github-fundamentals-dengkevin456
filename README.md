@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub (Kevin Deng)
+# :wave: The Basics of GitHub (Kevin Deng branch)
 
 ## 🤓 Course overview and learning outcomes 
 
